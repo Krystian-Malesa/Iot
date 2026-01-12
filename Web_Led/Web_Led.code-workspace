@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Web_Led",
+			"path": "../../../Dokumenty/PlatformIO/Projects/Web_Led"
+		},
+		{
+			"name": "PLYTKI",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
